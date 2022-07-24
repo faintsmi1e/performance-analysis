@@ -1,3 +1,3 @@
 # Анализ вкладки coverage
 
-![alt text](https://github.com/faintsmile/readme-assets/blob/master/prefomance-analysis/coverage.jpg?raw=true)
+<img src="https://github.com/pinosol/readme-assets/blob/master/perfomance-analysis/coverage.jpg" />
