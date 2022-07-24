@@ -2,7 +2,7 @@
 
 
 **Узел на котором происходит FCP**
-<img src="//images.samsung.com/is/image/samsung/assets/ru/2202/home/Home_B0_KV_Main-KV_1440x640_pc_preview1.jpg?imwidth=1366" alt="Крупный план подставки для S Pen на Galaxy S22 Ultra в бордовом цвете. Когда телефон опускается и поворачивается, чтобы сфокусироваться на задней камере, S Pen выходит из подставки и садится рядом с телефоном." data-target-width="">
+`<img src="//images.samsung.com/is/image/samsung/assets/ru/2202/home/Home_B0_KV_Main-KV_1440x640_pc_preview1.jpg?imwidth=1366" alt="Крупный план подставки для S Pen на Galaxy S22 Ultra в бордовом цвете. Когда телефон опускается и поворачивается, чтобы сфокусироваться на задней камере, S Pen выходит из подставки и садится рядом с телефоном." data-target-width="">`
 
 First paint - `1043.5 ms`
 First Contentful Paint - `1043.5 ms`
